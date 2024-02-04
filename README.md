@@ -1,4 +1,4 @@
-# Fraud_Detection
+# Fraud Detection
 
 Fraud analytics is a specialized field within data analytics that focuses on detecting and preventing fraudulent activities. As businesses and financial institutions increasingly rely on digital transactions, the need for robust fraud detection methods has become paramount. One challenge faced in fraud analytics is dealing with imbalanced data.
 
